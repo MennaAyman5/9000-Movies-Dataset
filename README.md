@@ -13,16 +13,16 @@
         3- searching about missing values and not find </br>
            
         4- searching about datatypes and find</br>
-        Release_Date          object
-        Title                 object
-        Overview              object
-        Popularity           float64
-        Vote_Count             int64
-        Vote_Average         float64
-        Original_Language     object
-        Genre                 object
-        Poster_Url            object</br>
-         all datatypes were "int64"</br>
+           Release_Date          object</br>
+           Title                 object</br>
+           Overview              object</br>
+           Popularity           float64</br>
+           Vote_Count             int64</br>
+           Vote_Average         float64</br>
+           Original_Language     object</br>
+           Genre                 object</br>
+           Poster_Url            object</br>
+           all datatypes were "int64"</br>
         5- dropping useless column ( "Title "," Overview" ," Poster_Url" ) becouse they not help me in the visulation.</p>
         6- Converts 'Release_Date' to be year only.</p>
         7- And finally the answer to the following questions:</p>
